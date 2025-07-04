@@ -4,9 +4,19 @@ A Streamlit app that scans for potentially mispriced options using Black-Scholes
 
 ## How to Run
 
-1. Clone this repository
-2. Install requirements: `pip install -r requirements.txt`
-3. Run the app: `streamlit run app.py`
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/reeeyooo/option-mispricing-scanner.git
+   cd your-repo
+
+2. Install Requirements:
+
+   pip install -r requirements.txt
+
+3. Run the App:
+
+   streamlit run app.py
+
 
 ## Usage
 - Enter a ticker symbol (e.g., SPY)
