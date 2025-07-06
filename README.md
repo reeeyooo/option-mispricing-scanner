@@ -10,21 +10,20 @@ A Streamlit app that identifies potentially mispriced options using Black-Schole
 
 # Installation
 
-1. Clone the repo
+1. Clone the repo:
 git clone https://github.com/reeeyooo/option-mispricing-scanner
 
-2. Navigate into the directory
+2. Navigate into the directory:
 cd option-mispricing-scanner
 
-3. Set up a virtual environment (recommended)
+3. Set up a virtual environment (recommended):
 python -m venv venv
 source venv/bin/activate (or venv\Scripts\activate on Windows)
 
-4. Install dependencies
+4. Install dependencies:
 pip install -r requirements.txt
 
-5. Run the app
-Run code and enter, streamlit run app.py, in the terminal
+5. Run code and enter, streamlit run app.py, in the terminal
 
 # Usage
 - Enter a ticker symbol (e.g., SPY)
